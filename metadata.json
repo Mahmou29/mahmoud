@@ -1,0 +1,6 @@
+{
+  "name": "طبيب الـ Brief",
+  "description": "تشخيص بريفات العملاء غير المكتملة وتحويلها إلى بريف إبداعي واضح وقابل للتنفيذ لفرق المحتوى والتصميم والفيديو والإنتاج.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
